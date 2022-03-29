@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">Konversi Satuan</string>
+    <string name="introKonversiSatuan">KonverSal adalah aplikasi helper konversi satuan untuk Kilogram (kg) ke Gram (gr) dan Ons. \n \n ⦿ 1 (kg) = 1000.0 gram \n ⦿ 1 (kg) = 10.0 ons</string>
+    <string name="satuan">Satuan (kg)</string>
+    <string name="hitung">Konversi</string>
+    <string name="berat_invalid">Berat tidak boleh kosong.</string>
+    <string name="gram_x">Gram: %1$.2f</string>
+    <string name="ons_x">Ons: %1$s</string>
+
 </resources>
