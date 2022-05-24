@@ -1,10 +1,48 @@
 <resources>
-    <string name="app_name">Konversi Satuan</string>
-    <string name="introKonversiSatuan">KonverSal adalah aplikasi helper konversi satuan untuk Kilogram (kg) ke Gram (gr) dan Ons. \n \n ⦿ 1 (kg) = 1000.0 gram \n ⦿ 1 (kg) = 10.0 ons</string>
-    <string name="satuan">Satuan (kg)</string>
-    <string name="hitung">Konversi</string>
-    <string name="berat_invalid">Berat tidak boleh kosong.</string>
-    <string name="gram_x">Gram: %1$.2f</string>
-    <string name="ons_x">Ons: %1$s</string>
+    <string name="app_name">Water Intake Reminder</string>
+    <string name="introKonversiSatuan">DrinkMe adalah aplikasi pemberi saran konsumsi asupan air selama per hari berdasarkan usia dalam jumlah liter (l). \n \n ⦿ Anak-Anak = 4 sampai 8 tahun \n ⦿ Dewasa = Lebih dari 8 tahun</string>
+    <string name="satuanLiter">Jumlah Air (l)</string>
+    <string name="golongan">Golongan</string>
+    <string name="anak">Anak</string>
+    <string name="dewasa">Dewasa</string>
+    <string name="hitung">Hitung</string>
+    <string name="reset">Reset</string>
+
+    <string name="jumlahair_x">Kurang/Lebih: %1$.2f liter</string>
+    <string name="jumlahair_x_kurang">Kurang: %1$.2f liter</string>
+    <string name="jumlahair_x_lebih">Lebih: %1$.2f liter</string>
+    <string name="kurang">Kurang</string>
+    <string name="lebih">Lebih</string>
+    <string name="cukup">Cukup</string>
+    <string name="kategoridrinkme_x">Kategori: %1$s</string>
+
+    <string name="jumlahair_invalid">Jumlah air tidak boleh kosong.</string>
+    <string name="golongan_invalid">Pilih jenis kelamin.</string>
+
+    <string name="judul_kurang">Mengatasi Kekurangan Air</string>
+    <string name="judul_cukup">Menjaga Tetap Kecukupan</string>
+    <string name="judul_lebih">Mengatasi Kelebihan Air</string>
+    <string name="saran_kurang">Cobalah untuk minum lebih</string>
+    <string name="saran_cukup">Pertahankan pola asupan minum!</string>
+    <string name="saran_lebih">Cobalah untuk mengurangi minum</string>
+    <string name="lihat_saran">Lihat Saran</string>
+
+    <string name="tentang_aplikasi">Tentang Aplikasi</string>
+    <string name="copyright">DrinkMe adalah aplikasi pemberi saran konsumsi asupan air selama per hari berdasarkan usia dalam jumlah liter (l).</string>
+
+
+    <string name="bagikan">Bagikan</string>
+    <string name="bagikan_template">Kurang/Lebih: %1$s l\nGolongan: %2$s \n %3$s\n\n%4$s</string>
+
+    <string name="belum_ada_data">Belum ada data</string>
+    <string name="histori">Histori</string>
+
+    <string name="hasil_drinkme">Kurang/Lebih: %1$.2f - %2$s</string>
+    <string name="data_drinkme">Jumlah Air: %1$.1f - %2$s</string>
+
+    <string name="hapus_histori">Hapus Histori</string>
+    <string name="konfirmasi_hapus">Hapus semua histori?</string>
+    <string name="hapus">Hapus</string>
+    <string name="batal">Batal</string>
 
 </resources>

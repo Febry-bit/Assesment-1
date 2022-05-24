@@ -10,4 +10,7 @@
     <color name="pink_200">#F48FB1</color>
     <color name="pink_500">#E91E63</color>
     <color name="pink_700">#C2185B</color>
+    <color name="lebih">#F57F17</color>
+    <color name="cukup">#2E7D32</color>
+    <color name="kurang">#D32F2F</color>
 </resources>

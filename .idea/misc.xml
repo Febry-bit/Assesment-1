@@ -3,7 +3,16 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/KonversiSatuan/app/src/main/res/drawable-hdpi/circle_background.xml" value="0.1" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/KonversiSatuan/app/src/main/res/drawable-v24/circle_background.xml" value="0.2115" />
         <entry key="..\:/Users/DELL/AndroidStudioProjects/KonversiSatuan/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/KonversiSatuan/app/src/main/res/layout/fragment_about.xml" value="0.1675929884566054" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/KonversiSatuan/app/src/main/res/layout/fragment_histori.xml" value="0.1675929884566054" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/KonversiSatuan/app/src/main/res/layout/fragment_hitung.xml" value="0.25" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/KonversiSatuan/app/src/main/res/layout/fragment_saran.xml" value="0.1675929884566054" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/KonversiSatuan/app/src/main/res/layout/item_histori.xml" value="0.1675929884566054" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/KonversiSatuan/app/src/main/res/menu/histori_menu.xml" value="0.1675929884566054" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/KonversiSatuan/app/src/main/res/menu/options_menu.xml" value="0.1675929884566054" />
       </map>
     </option>
   </component>
